@@ -1,0 +1,5 @@
+# Report Forge Txt
+
+[2026-05-10 19:12:42] sistem berjalan normal
+[2026-05-10 19:12:42] validasi input: OK
+[2026-05-10 19:12:42] sesi ditutup dengan bersih
